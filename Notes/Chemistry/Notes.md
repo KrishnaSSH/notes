@@ -1,4 +1,4 @@
-# ** Thermodynamics **
+#  Thermodynamics 
 --------------------------------------------
 ## **Topics to remember**
 
